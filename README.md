@@ -130,8 +130,3 @@ This project is released under the MIT License.
 
 ---
 
-If you want, I can also create:
-✅ Project logo
-✅ Badges (build, accuracy, license)
-✅ More detailed installation guide
-✅ A beautiful banner image for the top of your README
